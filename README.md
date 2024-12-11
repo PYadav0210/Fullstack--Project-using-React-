@@ -12,6 +12,7 @@ This is a sample project made in React, and Node js and mysql. The frontend in r
 
 - Now one of the pre requisite is you must have mysql installed. So, go to mysql and run following queries:
 
+
 - `CREATE DATABASE airdata;`
 - `USE airdata;`
 
@@ -43,5 +44,4 @@ less than 1000 and yellow means between 1000 and 2000.
 - Moreover, I also implemented Weather api using axios where you can enter a city in Germany and it fetches all weather related data of that particular city and then displays      under Weather tab
 - Lastly, I implemented footer where all important links and mailing functionality is shown.
 - Used bootstrap for CSS 
-- The basic interface looks something like this but CO2 graph is not shown since we still havent connected with mysql backend in this website:
-- https://breeze-react.netlify.app/ 
+- The basic interface looks something like this but CO2 graph is not shown since we still havent connected with mysql backend in this website
